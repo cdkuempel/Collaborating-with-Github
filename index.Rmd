@@ -5,11 +5,10 @@ date: "11 May 2018"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=TRUE}
 knitr::opts_chunk$set(echo = TRUE)
 library(ggplot2)
 ggplot(data=cars, aes(x=dist, y=speed))+geom_point()+geom_smooth(method="loess")+theme_classic()
-
 
 
 ```
