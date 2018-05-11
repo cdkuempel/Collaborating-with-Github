@@ -7,6 +7,11 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+ggplot(data=cars, aes(x=dist, y=speed))+geom_point()+geom_smooth(method="loess")+theme_classic()
+
+
+
 ```
 
 ## R Markdown
