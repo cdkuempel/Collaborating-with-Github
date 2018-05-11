@@ -4,4 +4,8 @@ Collaborating with Github tutorial
  
  
  
+<<<<<<< HEAD
  - Poo everywhere
+=======
+ Hurry up Rich
+>>>>>>> 736a3c871ac356eb13c60ee813677c430a9b6444
