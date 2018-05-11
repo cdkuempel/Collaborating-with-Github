@@ -1,8 +1,4 @@
 # Collaborating-with-Github
 Collaborating with Github tutorial
- - Smelly face alpha
- 
- 
- 
- - Poo everywhere
+-Caitie and Rich trying to collaborate for the first time. It's a struggle.
 
